@@ -38,7 +38,7 @@ cd DarkMode-Toggle
 3. Open the index.html File in a Browser.
 4. Click the Toggle Button to switch between light and dark modes.
 
-🤝 Contributing
+## 🤝 Contributing
 Feel free to contribute! If you have suggestions or improvements, fork the repository and submit a pull request.
 
 
